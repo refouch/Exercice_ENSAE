@@ -10,5 +10,5 @@ Laissez-nous savourer les rapides délices des plus beaux de nos jours...
 
 :cat:
 :koala:
-:fleur-de-lys:
+⚜️
 :fr:
