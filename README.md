@@ -8,5 +8,6 @@ I added this line because the énoncé told me to do so.
 et vous heures propices suspendez votre cours
 
 :cat:
+:koala:
 :fleur-de-lys:
 :fr:
